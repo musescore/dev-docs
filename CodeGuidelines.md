@@ -23,9 +23,9 @@
 
 To keep the source consistent, readable, modifiable, and easy to merge, we use a fairly rigid coding style. All patches are expected to conform to this style, with the exception of third-party modules, or patches to existing files that are already using a different style.
 
-MuseScore's C++ style and conventions are mostly based on the [Qt code style](https://wiki.qt.io/Qt_Coding_Style) and [conventions](https://wiki.qt.io/Coding_Conventions), but there are some differences.
+Our C++ style and conventions are mostly based on the [Qt code style](https://wiki.qt.io/Qt_Coding_Style) and [conventions](https://wiki.qt.io/Coding_Conventions), but there are some differences. The guidelines for other languages are based on common practice in those languages, defaulting to a similar style to our C++ style when no consensus is available.
 
-The guidelines for other languages are based on common practice in those languages, defaulting to a similar style to our C++ style when no consensus is available.
+Guidelines for the contribution process itself can be found [here](https://github.com/audacity/audacity/blob/master/CONTRIBUTING.md) for Audacity and [here](https://github.com/musescore/MuseScore/blob/main/CONTRIBUTING.md) for MuseScore Studio. Generally, the same advice applies when submitting changes to the Muse Framework.
 
 ## C++
 [C++]: #c
